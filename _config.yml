@@ -1,0 +1,14 @@
+layout_spectrum: 0.4551971
+color:
+  saturation: 0.4462366
+  lightness: 0.3584229
+  brandStrength: 0.4569893
+  brandColors:
+    - '#FCFCFC'
+    - '#B7B7B7'
+    - '#000103'
+    - '#7F7F80'
+    - '#2A2C29'
+  rhythmicContrast: 0.7311828
+typography_spectrum: 0.8978494
+name: Remotes
