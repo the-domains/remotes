@@ -1,14 +1,26 @@
-layout_spectrum: 0.4551971
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8978494
 color:
   saturation: 0.4462366
-  lightness: 0.3584229
   brandStrength: 0.4569893
+  lightness: 0.3584229
   brandColors:
-    - '#FCFCFC'
-    - '#B7B7B7'
-    - '#000103'
-    - '#7F7F80'
-    - '#2A2C29'
+    - '#FFFFFF'
+    - '#363636'
+    - '#94918F'
+    - '#050505'
+    - '#D4D4D4'
   rhythmicContrast: 0.7311828
-typography_spectrum: 0.8978494
+layout_spectrum: 0.4551971
 name: Remotes
