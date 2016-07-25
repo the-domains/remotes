@@ -10,10 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5197133
 color:
-  saturation: 0.7293907
-  brandStrength: 0.4569893
+  saturation: 0.2275986
+  brandStrength: 0.09677419
   lightness: 0.4784946
   brandColors:
     - '#FFFFFF'
@@ -21,6 +20,7 @@ color:
     - '#94918F'
     - '#050505'
     - '#D4D4D4'
-  rhythmicContrast: 0.7150537
-layout_spectrum: 0.4283154
+  rhythmicContrast: 0.4623656
+typography_spectrum: 0.5197133
+layout_spectrum: 0.6612903
 name: Remotes
