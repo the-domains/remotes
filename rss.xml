@@ -4,8 +4,15 @@
         <description><![CDATA[remotes]]></description>
         <link>https://thegrid.ai/remotes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 19:00:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 19:01:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/remotes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SMC-1]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89d4d1b-5b01-4c82-b569-74d5412aef08.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89d4d1b-5b01-4c82-b569-74d5412aef08.jpg</link>
+            <guid isPermaLink="false">9275b7e2-f072-4d2d-b713-574954066bbb</guid>
+            <pubDate>Mon, 25 Jul 2016 19:01:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cvolution]]></title>
             <description><![CDATA[<article><h1>Cvolution</h1><p>The FIZ from C-motion</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0bcba9329e20358376bb863df01cec8/croprotate.jpg?cropheight=843&cropwidth=1500&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F54f525b8-15d3-4588-9683-813985b0e46b.jpg&x=0&y=0"></article>]]></description>
@@ -18,13 +25,6 @@
             <description><![CDATA[<article><h1>C-force mini</h1><p>The only motor you need with the Alexa mini</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e590dbc-ebd9-42b0-9df5-017172edf3d5.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e590dbc-ebd9-42b0-9df5-017172edf3d5.jpg</link>
             <guid isPermaLink="false">0584f8d3-f8f6-4026-b8c1-926a6e75583a</guid>
-            <pubDate>Mon, 25 Jul 2016 18:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SMC-1]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89d4d1b-5b01-4c82-b569-74d5412aef08.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89d4d1b-5b01-4c82-b569-74d5412aef08.jpg</link>
-            <guid isPermaLink="false">9275b7e2-f072-4d2d-b713-574954066bbb</guid>
             <pubDate>Mon, 25 Jul 2016 18:52:04 GMT</pubDate>
         </item>
         <item>
